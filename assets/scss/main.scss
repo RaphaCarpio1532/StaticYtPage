@@ -1,0 +1,43 @@
+/*!
+  * Item: Nuhan - Personal Portfoio HTML Template
+  * Description: Personal Portfolio Template
+  * Author/Developer: ReacThemes
+  * Author/Developer URL: https://themeforest.net/user/reacthemes
+  * Version: v1.0.0
+  * License: Themeforest Standard Licenses: https://themeforest.net/licenses
+  */
+/*=======================
+======Index Number=======
+=========================*/
+/*
+1.typography
+2.about
+3.root.scss
+4.banner
+5.button
+6.service
+7.resum-section
+8.blog
+9.blog-details
+10.contact
+11.social-area
+12.nice-scroll
+13.white-verson
+
+*/
+
+
+/*style hear*/
+@import'elements/typography';
+@import'elements/about';
+@import'elements/root.scss';
+@import'elements/banner.scss';
+@import'elements/button';
+@import'elements/service';
+@import'elements/resum-section';
+@import'elements/blog';
+@import'elements/blog-details';
+@import'elements/contact';
+@import'elements/social-area';
+@import'elements/nice-scroll';
+@import'elements/white-version';
